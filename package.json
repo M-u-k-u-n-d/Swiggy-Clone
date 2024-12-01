@@ -1,0 +1,29 @@
+{
+  "name": "swiggyclone",
+  "version": "1.0.0",
+  "description": "developing swiggy clone",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel index.html",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/M-u-k-u-n-d/Swiggy-Clone.git"
+  },
+  "keywords": [],
+  "author": "Mukund Tiwari",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/M-u-k-u-n-d/Swiggy-Clone/issues"
+  },
+  "homepage": "https://github.com/M-u-k-u-n-d/Swiggy-Clone#readme",
+  "devDependencies": {
+    "parcel": "^2.13.2",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  }
+}
