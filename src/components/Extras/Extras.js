@@ -1,8 +1,6 @@
 const Extras = ()=>{
     return(
-        <div>
-            
-        </div>
+        <div></div>
     )
 }
 
